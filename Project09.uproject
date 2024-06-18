@@ -16,11 +16,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "PCGBiomeCore",
-			"Enabled": true
-		},
-		{
-			"Name": "PCGBiomeSample",
+			"Name": "Landmass",
 			"Enabled": true
 		}
 	]
