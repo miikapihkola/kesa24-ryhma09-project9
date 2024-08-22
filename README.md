@@ -34,7 +34,7 @@ Miika Pihkola - Lead Design, Code<br>
 Tiia Nordberg - 3D Artist, Animator<br>
 Ella Heikkinen - 2D & 3D Artist<br>
 Jaakko Väätäinen - Sound Design, Video editor<br>
-Tuomo Uusitalo 3D Artist<br>
+Tuomo Uusitalo - 3D Artist<br>
 
 ## License
 CC-BY for our own work<br>
