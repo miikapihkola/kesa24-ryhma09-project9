@@ -37,4 +37,5 @@ Jaakko Väätäinen - Sound Design, Video editor<br>
 Tuomo Uusitalo 3D Artist<br>
 
 ## License
-TBA
+CC-BY for our own work<br>
+Use "Assettilista" to figure out what were premade assets.
