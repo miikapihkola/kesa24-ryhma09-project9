@@ -23,7 +23,7 @@ Gameplay trailer made by Jaakko Väätäinen
 
 ## Installation
 Windows only<br>
-Downloadlink: TBA<br>
+Download link: https://drive.google.com/file/d/1T9XGDWRiT_btZGMrzjmFzgcu0PSGKeu2/view?usp=sharing<br>
 Instructions:<br>
     - Download<br>
     - Extract said zip file<br>
