@@ -5,6 +5,9 @@
 ## Name
 PowerOfNine_V1.1
 
+## Genre
+Isometric twinstick roguelite shooter
+
 ## Description
 Summer course organized by LapinAMK called "Kesäpeliopinnot 2024" which translates to "Summergamestudies". The course was worth 20 studypoints and took around 3 months.<br>
 The goal of the course was to make a game (either complete or demo) with gameplay trailer
