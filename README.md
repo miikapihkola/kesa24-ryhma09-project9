@@ -20,6 +20,8 @@ So this game is as ready as it will ever be. We will not be adding possible cut 
 ## Visuals
 https://www.youtube.com/watch?v=c9BwKAx8z58 <br>
 Gameplay trailer made by Jaakko Väätäinen
+https://www.youtube.com/watch?v=_2U41RYzd-Q&t=13795s
+Gameplay during course ending livestream
 
 ## Installation
 Windows only<br>
