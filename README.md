@@ -18,7 +18,7 @@ Development has stopped completely, since this project was tied to a school proj
 So this game is as ready as it will ever be. We will not be adding possible cut contents like boss fight.
 
 ## Visuals
-https://www.youtube.com/watch?v=c9BwKAx8z58 <br>
+https://www.youtube.com/watch?v=Wqdw6Xou7Kk <br>
 Gameplay trailer made by Jaakko Väätäinen<br>
 https://www.youtube.com/watch?v=_2U41RYzd-Q&t=13795s<br>
 Gameplay during course ending livestream
